@@ -1,1 +1,1 @@
-# i2ai-lab
+# iai-lab
